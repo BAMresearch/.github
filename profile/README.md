@@ -4,7 +4,7 @@
 
 🗺️ We are located in Berlin/Germany and we are (mostly) researchers from fields connected to materials research and testing (Physics, Chemistry, Materials Science, Engineering)!
 
-🧪 Our code is based on research projects from different research groups, departments and divisions within BAM. At BAM we value and support [open source software](https://github.com/BAMresearch/Introduction)! Our software projects are [free and open source by default](https://github.com/BAMresearch/Open-Source-Software)!
+🧪 Our code is based on research projects from different research groups, departments and divisions within BAM. At BAM we value and support [open source software](https://github.com/BAMresearch/.oss)! Our software projects are [free and open source by default](https://github.com/BAMresearch/.oss-strategy)!
 
 A selection of our code projects (alphabetical order):
 * *LobsterPy*: [https://github.com/jageo/lobsterpy](https://github.com/jageo/lobsterpy): A package for automated bonding analysis in the field of computational materials science
