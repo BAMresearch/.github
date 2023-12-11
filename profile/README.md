@@ -10,5 +10,6 @@ A selection of our code projects (alphabetical order):
 * *LobsterPy*: [https://github.com/jageo/lobsterpy](https://github.com/jageo/lobsterpy): A package for automated bonding analysis in the field of computational materials science
 * *Mistle*: [https://github.com/BAMeScience/Mistle](https://github.com/BAMeScience/Mistle): Mistle is a fast spectral search engine. It uses a fragment-indexing technique and SIMD intrinsics to match experimental MS2 spectra to large spectral libraries at a high performance.
 * *PepGM*: [https://github.com/BAMeScience/PepGM](https://github.com/BAMeScience/PepGM): A probabilistic graphical model for taxonomic inference of viral proteome samples with associated confidence scores 
+* *SLAMD*: [https://github.com/BAMeScience/PepGM](https://github.com/Mat-O-Lab/WEBSLAMD/tree/main): An open source web app for data driven acceleration of cement and concrete development through digital lab twin and AI optimization (**Python/javascript**). [![Github Stars](https://img.shields.io/github/stars/BAMresearch/WEBSLAMD?style=social)]
 
 More software projects can be found in the list below! Enjoy! 🎉
