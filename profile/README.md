@@ -8,9 +8,9 @@
 
 ## Curated List of repositories
 
-A curated list of repositories, tools, and software projects can be found in our organizations [awesome-BAMresearch repository](https://github.com/BAMresearch/awesome-BAMresearch)! Please have a look and enjoy! 🎉
+A curated list of our repositories, tools, and software projects can be found in our organizations [awesome-BAMresearch repository](https://github.com/BAMresearch/awesome-BAMresearch)! Please have a look and enjoy! 🎉
 
-A selection of our code projects (alphabetical order):
+A selection of in alphabetical order:
 * *LobsterPy*: [https://github.com/jageo/lobsterpy](https://github.com/jageo/lobsterpy): A package for automated bonding analysis in the field of computational materials science
 * *Autoplex*: [https://github.com/autoatml/autoplex](https://github.com/autoatml/autoplex): A package for generating and benchmarking machine learning (ML)-based interatomic potentials. 
 * *Mistle*: [https://github.com/BAMeScience/Mistle](https://github.com/BAMeScience/Mistle): Mistle is a fast spectral search engine. It uses a fragment-indexing technique and SIMD intrinsics to match experimental MS2 spectra to large spectral libraries at a high performance.
